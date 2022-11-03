@@ -1,8 +1,6 @@
 package main
 
-import (
-	"golang-apigateway/pkg/command"
-)
+import "golang-apigateway/pkg/command"
 
 func main() {
 	command.Run()
